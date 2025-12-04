@@ -1,0 +1,20 @@
+boto3
+opensearch-py
+botocore
+awscli
+retrying
+ragas
+ipywidgets
+iprogress
+langchain == 0.3.17
+langchain_aws == 0.2.10
+langchain-core == 0.3.34
+langchain_community == 0.3.16
+s3fs
+requests
+pypdf
+tqdm
+pandas
+haystack-ai
+datasets == 2.14.0
+ragas == 0.1.9
