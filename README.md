@@ -79,7 +79,7 @@ AWS managed services made it easy to ingest data, generate embeddings, and run i
 
 ---
 
-## 📂 Repository Structure (Actual)
+## 📂 Repository Structure
 
 ```
 AI-For-Bharat-AWS-RAG/
@@ -196,9 +196,7 @@ Through this workshop, I learned:
 
 ---
 
-## 🔗 References
-- AWS Bedrock Documentation  
-- OpenSearch Vector Search Docs  
+## 🔗 References 
 - AI for Bharat Workshop Materials  
 
 ---
